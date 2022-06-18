@@ -26,5 +26,5 @@ then write the word you want the tool to reform it
 ```
 
 # Screenshot
-![alt text]([https://i.postimg.cc/yN0nB1cQ/notes.png](https://i.postimg.cc/9QC5shD9/anagram.png))
+![alt text](https://i.postimg.cc/9QC5shD9/anagram.png)
 
