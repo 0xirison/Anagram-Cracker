@@ -12,9 +12,8 @@ git clone https://github.com/0xirison/Anagram-Cracker.git
 pip3 install requests
 ```
 ```
-- Register a RapidAPI account and subsicribe to WordsAPI free here: https://rapidapi.com/dpventures/api/wordsapi/
-- you can fire 2500 requests free per day
-- then insert your API keys in the tool
+- Register a RapidAPI account and subsicribe to WordsAPI free (2500 requests per day) here: https://rapidapi.com/dpventures/api/wordsapi/
+- then insert your API key in the tool
 ```
 
 # Usage
