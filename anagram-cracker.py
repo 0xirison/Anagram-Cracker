@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+#author: IRISON
+#Date: 18-06-2022
 from itertools import permutations
 import requests
 
