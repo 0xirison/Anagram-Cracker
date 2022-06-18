@@ -13,7 +13,7 @@ pip3 install requests
 ```
 ```
 - Register a RapidAPI account and subsicribe to WordsAPI free (2500 requests per day) here: https://rapidapi.com/dpventures/api/wordsapi/
-- then insert your API key in the tool
+- Then insert your API key in the tool
 ```
 
 # Usage
@@ -21,7 +21,7 @@ pip3 install requests
 python anagram-cracker.py
 ```
 ```
-then write the word you want the tool to reform it
+Then write the word you want the tool to reform it
 ```
 
 # Screenshot
