@@ -1,6 +1,5 @@
-# Anagram-Cracker
 # Introduction
-a simple Python tool to solve anagram riddles based on WordsAPI from RapidAPI
+Anagram Cracker is a simple Python tool to solve anagram riddles based on WordsAPI from RapidAPI. It forms all unique combinations from the given word and find its meaning, this will help you in solving anagram games.
 
 # Installation
 ```
